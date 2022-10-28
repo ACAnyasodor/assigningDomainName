@@ -2,5 +2,5 @@
 You'll have to do some setting on both sides so lezz go
 
 ## Linode Settings
--On the your dashboard, click _domain_
--ggg
+- On the your dashboard, click _domain_
+- ggg
