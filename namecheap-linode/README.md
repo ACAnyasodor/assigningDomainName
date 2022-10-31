@@ -13,11 +13,11 @@ Now a domain name has been added, next connect to a Linode
 - copy the IPv4 and IPv6 addresses
 - Go back to **_Domains_** and select the taget domain name.
 - Scroll down to find A/AAAA Record and add an A/AAAA Record
-- For each record leave **_Hostname_** empty and add the IPv4 and IPv6 address as the IP address, leave TTL as default and save
+- For each record, add the IPv4 and IPv6 address as the IP address, leave **_Hostname_** empty and leave TTL as default; save
 ### Namecheap/Domain Settings
 - Open the domain dashboard
-- Set **_Nameservers_** to **_custom DNS_**
+- Set **_Nameservers_** to **_Custom DNS_**
 - Add **_ns1.linode.com_** till **_ns5.linode.com_** to Nameservers
 - Save  
 
-You'll have to wait a while for the changes to take effect. According to articles i read during my research, it should take a maximum of 24 hours. It is usually faster in some cases.
+You'll have to wait a while for the changes to take effect. According to articles I read during my research, it should take a maximum of 24 hours. It is usually faster in some cases.
