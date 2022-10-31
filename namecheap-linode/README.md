@@ -18,5 +18,6 @@ Now a domain name has been added, next connect to a Linode
 - Open the domain dashboard
 - Set **_Nameservers_** to **_custom DNS_**
 - Add **_ns1.linode.com_** till **_ns5.linode.com_** to Nameservers
-- Click to save
-![image](https://user-images.githubusercontent.com/57091210/199005147-cb1fb53c-8b1f-4533-a067-141917d1244d.png)
+- Save  
+
+You'll have to wait a while for the changes to take effect. According to articles i read during my research, it should take a maximum of 24 hours. It is usually faster in some cases.
