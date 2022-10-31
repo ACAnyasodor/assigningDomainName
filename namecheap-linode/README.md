@@ -6,7 +6,7 @@ You'll have to do some setting on both sides so lezz go
 - Creata a domain
   - Enter the domain name and an email address
   - For **_insert default records_** select **_... from one of my linodes_** and select a linode
-  - click **_Create Domain_**
+  - click **_Create Domain_**  
 Now a domain name has been added, next connect to a Linode
 - Go to your target linode and open **_Network_** tab
 - copy the IPv4 and IPv6 addresses
