@@ -4,6 +4,8 @@ A few days back I tried to map my VM's IP address to a domain name. Unluckily my
 
 This repo contains guides on how to assign your domain name to an IP addresss. I'm accepting contributions so as to soften this task. Input about other domain name providers and various VM/cloud provider are also welcome.
 
+### Contributing Guide
+The CONTRIBUTING.md file contains a guide to making effective and valid contributions
 
 ### License
 This repo is licensed under the terms of the MIT license
