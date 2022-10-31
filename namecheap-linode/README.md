@@ -20,4 +20,7 @@ Now a domain name has been added, next connect to a Linode
 - Add **_ns1.linode.com_** till **_ns5.linode.com_** to Nameservers
 - Save  
 
-You'll have to wait a while for the changes to take effect. According to articles I read during my research, it should take a maximum of 24 hours. It is usually faster in some cases.
+You'll have to wait a while for the changes to take effect. According to articles I read during my research, it should take a maximum of 24 hours. It is usually faster in some cases.  
+
+
+I also wrote an article for this, [read it here](https://dev.to/acanyasodor/assigning-a-namecheap-domain-name-to-a-linode-vm-381f)
